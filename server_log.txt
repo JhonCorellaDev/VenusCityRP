@@ -1,0 +1,1033 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:11:50] 
+[06:11:50] Server Plugins
+[06:11:50] --------------
+[06:11:50]  Loading plugin: crashdetect
+[06:11:50]   CrashDetect plugin 4.19
+[06:11:50]   Loaded.
+[06:11:50]  Loading plugin: streamer.dll
+[06:11:50] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[06:11:50]   Loaded.
+[06:11:50]  Loading plugin: sscanf
+[06:11:50] 
+
+[06:11:50]  ===============================
+
+[06:11:50]       sscanf plugin loaded.     
+
+[06:11:50]          Version:  2.8.2        
+
+[06:11:50]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:11:50]  ===============================
+
+[06:11:50]   Loaded.
+[06:11:50]  Loading plugin: mysql
+[06:11:50]   Failed.
+[06:11:50]  Loading plugin: pawncmd
+[06:11:51] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[06:11:51]   Loaded.
+[06:11:51]  Loading plugin: pawnregex
+[06:11:51] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[06:11:51]   Loaded.
+[06:11:51]  Loading plugin: pawnraknet
+[06:11:51] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[06:11:51]   Loaded.
+[06:11:51]  Loading plugin: MapAndreas
+[06:11:51]   Loaded.
+[06:11:51]  Loading plugin: PawnPlus
+[06:11:51]  PawnPlus v1.3.1 loaded
+[06:11:51]  Created by IllidanS4
+[06:11:51]   Loaded.
+[06:11:51]  Loaded 8 plugins.
+
+[06:11:52] 
+[06:11:52] Filterscripts
+[06:11:52] ---------------
+[06:11:52]   Loading filterscript 'maps.amx'...
+[06:11:52]   Unable to load filterscript 'maps.amx'.
+[06:11:52]   Loaded 0 filterscripts.
+
+[06:11:52] [debug] Run time error 19: "File or function is not found"
+[06:11:52] [debug]  mysql_tquery
+[06:11:52] [debug]  mysql_pquery
+[06:11:52] [debug]  mysql_tquery_file
+[06:11:52] [debug]  orm_select
+[06:11:52] [debug]  orm_update
+[06:11:52] [debug]  orm_insert
+[06:11:52] [debug]  orm_delete
+[06:11:52] [debug]  orm_select
+[06:11:52] [debug]  orm_save
+[06:11:52] [debug]  mysql_close
+[06:11:52] [debug]  mysql_log
+[06:11:52] [debug]  mysql_connect_file
+[06:11:52] [debug]  mysql_errno
+[06:11:52] [debug] Run time error 19: "File or function is not found"
+[06:11:52] [debug]  mysql_tquery
+[06:11:52] [debug]  mysql_pquery
+[06:11:52] [debug]  mysql_tquery_file
+[06:11:52] [debug]  orm_select
+[06:11:52] [debug]  orm_update
+[06:11:52] [debug]  orm_insert
+[06:11:52] [debug]  orm_delete
+[06:11:52] [debug]  orm_select
+[06:11:52] [debug]  orm_save
+[06:11:52] [debug]  mysql_close
+[06:11:52] [debug]  mysql_log
+[06:11:52] [debug]  mysql_connect_file
+[06:11:52] [debug]  mysql_errno
+[06:11:52] Script[gamemodes/main.amx]: Run time error 19: "File or function is not found"
+[06:11:52] Number of vehicle models: 0
+[06:11:59] --- Server Shutting Down.
+[06:11:59] [debug] Run time error 19: "File or function is not found"
+[06:11:59] [debug]  mysql_tquery
+[06:11:59] [debug]  mysql_pquery
+[06:11:59] [debug]  mysql_tquery_file
+[06:11:59] [debug]  orm_select
+[06:11:59] [debug]  orm_update
+[06:11:59] [debug]  orm_insert
+[06:11:59] [debug]  orm_delete
+[06:11:59] [debug]  orm_select
+[06:11:59] [debug]  orm_save
+[06:11:59] [debug]  mysql_close
+[06:11:59] [debug]  mysql_log
+[06:11:59] [debug]  mysql_connect_file
+[06:11:59] [debug]  mysql_errno
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:12:20] 
+[06:12:20] Server Plugins
+[06:12:20] --------------
+[06:12:20]  Loading plugin: crashdetect
+[06:12:20]   CrashDetect plugin 4.19
+[06:12:20]   Loaded.
+[06:12:20]  Loading plugin: streamer.dll
+[06:12:20] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[06:12:20]   Loaded.
+[06:12:20]  Loading plugin: sscanf
+[06:12:20] 
+
+[06:12:20]  ===============================
+
+[06:12:20]       sscanf plugin loaded.     
+
+[06:12:20]          Version:  2.8.2        
+
+[06:12:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:12:20]  ===============================
+
+[06:12:20]   Loaded.
+[06:12:20]  Loading plugin: mysql
+[06:12:21]  >> plugin.mysql: R41-4 successfully loaded.
+[06:12:21]   Loaded.
+[06:12:21]  Loading plugin: pawncmd
+[06:12:21] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[06:12:21]   Loaded.
+[06:12:21]  Loading plugin: pawnregex
+[06:12:21] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[06:12:21]   Loaded.
+[06:12:21]  Loading plugin: pawnraknet
+[06:12:21] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[06:12:21]   Loaded.
+[06:12:21]  Loading plugin: MapAndreas
+[06:12:21]   Loaded.
+[06:12:21]  Loading plugin: PawnPlus
+[06:12:21]  PawnPlus v1.3.1 loaded
+[06:12:21]  Created by IllidanS4
+[06:12:21]   Loaded.
+[06:12:21]  Loaded 9 plugins.
+
+[06:12:21] 
+[06:12:21] Filterscripts
+[06:12:21] ---------------
+[06:12:21]   Loading filterscript 'maps.amx'...
+[06:12:21]   Unable to load filterscript 'maps.amx'.
+[06:12:21]   Loaded 0 filterscripts.
+
+[06:12:21]  
+[06:12:21]  
+[06:12:21]  
+[06:12:21]  ======================================= 
+[06:12:21]  |                                     | 
+[06:12:21]  |        YSI version 4.00.0001        | 
+[06:12:21]  |        By Alex "Y_Less" Cole        | 
+[06:12:21]  |                                     | 
+[06:12:21]  ======================================= 
+[06:12:21]  
+[06:12:21] [Consola] Conectando a la base de datos...
+[06:12:21] [Consola] Base de datos conectada(Datos Generales Cargados)
+[06:12:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:22:23] 
+[06:22:23] Server Plugins
+[06:22:23] --------------
+[06:22:23]  Loading plugin: crashdetect
+[06:22:23]   CrashDetect plugin 4.19
+[06:22:23]   Loaded.
+[06:22:23]  Loading plugin: streamer.dll
+[06:22:23] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[06:22:23]   Loaded.
+[06:22:23]  Loading plugin: sscanf
+[06:22:23] 
+
+[06:22:23]  ===============================
+
+[06:22:23]       sscanf plugin loaded.     
+
+[06:22:23]          Version:  2.8.2        
+
+[06:22:23]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:22:23]  ===============================
+
+[06:22:23]   Loaded.
+[06:22:23]  Loading plugin: mysql
+[06:22:24]  >> plugin.mysql: R41-4 successfully loaded.
+[06:22:24]   Loaded.
+[06:22:24]  Loading plugin: pawncmd
+[06:22:24] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[06:22:24]   Loaded.
+[06:22:24]  Loading plugin: pawnregex
+[06:22:24] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[06:22:24]   Loaded.
+[06:22:24]  Loading plugin: pawnraknet
+[06:22:24] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[06:22:24]   Loaded.
+[06:22:24]  Loading plugin: MapAndreas
+[06:22:24]   Loaded.
+[06:22:24]  Loading plugin: PawnPlus
+[06:22:24]  PawnPlus v1.3.1 loaded
+[06:22:24]  Created by IllidanS4
+[06:22:24]   Loaded.
+[06:22:24]  Loaded 9 plugins.
+
+[06:22:24] 
+[06:22:24] Filterscripts
+[06:22:24] ---------------
+[06:22:24]   Loading filterscript 'maps.amx'...
+[06:22:24]   Unable to load filterscript 'maps.amx'.
+[06:22:24]   Loaded 0 filterscripts.
+
+[06:22:24] [Consola] Conectando a la base de datos...
+[06:22:24] [Consola] Base de datos conectada(Datos Generales Cargados)
+[06:22:24] [debug] Run time error 20: "Invalid index parameter (bad entry point)"
+[06:22:24] Script[gamemodes/main.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[06:22:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:23:11] 
+[06:23:11] Server Plugins
+[06:23:11] --------------
+[06:23:11]  Loading plugin: crashdetect
+[06:23:11]   CrashDetect plugin 4.19
+[06:23:11]   Loaded.
+[06:23:11]  Loading plugin: streamer.dll
+[06:23:11] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[06:23:11]   Loaded.
+[06:23:11]  Loading plugin: sscanf
+[06:23:11] 
+
+[06:23:11]  ===============================
+
+[06:23:11]       sscanf plugin loaded.     
+
+[06:23:11]          Version:  2.8.2        
+
+[06:23:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:23:11]  ===============================
+
+[06:23:11]   Loaded.
+[06:23:11]  Loading plugin: mysql
+[06:23:11]  >> plugin.mysql: R41-4 successfully loaded.
+[06:23:11]   Loaded.
+[06:23:11]  Loading plugin: pawncmd
+[06:23:11] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[06:23:11]   Loaded.
+[06:23:11]  Loading plugin: pawnregex
+[06:23:11] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[06:23:11]   Loaded.
+[06:23:11]  Loading plugin: pawnraknet
+[06:23:11] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[06:23:11]   Loaded.
+[06:23:11]  Loading plugin: MapAndreas
+[06:23:11]   Loaded.
+[06:23:11]  Loading plugin: PawnPlus
+[06:23:11]  PawnPlus v1.3.1 loaded
+[06:23:11]  Created by IllidanS4
+[06:23:11]   Loaded.
+[06:23:11]  Loaded 9 plugins.
+
+[06:23:11] 
+[06:23:11] Filterscripts
+[06:23:11] ---------------
+[06:23:11]   Loading filterscript 'maps.amx'...
+[06:23:11]   Unable to load filterscript 'maps.amx'.
+[06:23:11]   Loaded 0 filterscripts.
+
+[06:23:11]  
+[06:23:11]  
+[06:23:11]  
+[06:23:11]  ======================================= 
+[06:23:11]  |                                     | 
+[06:23:11]  |        YSI version 4.00.0001        | 
+[06:23:11]  |        By Alex "Y_Less" Cole        | 
+[06:23:11]  |                                     | 
+[06:23:11]  ======================================= 
+[06:23:11]  
+[06:23:11] [Consola] Conectando a la base de datos...
+[06:23:11] [Consola] Base de datos conectada(Datos Generales Cargados)
+[06:23:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:30:23] 
+[06:30:23] Server Plugins
+[06:30:23] --------------
+[06:30:23]  Loading plugin: crashdetect
+[06:30:23]   CrashDetect plugin 4.19
+[06:30:23]   Loaded.
+[06:30:23]  Loading plugin: streamer.dll
+[06:30:23] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[06:30:23]   Loaded.
+[06:30:23]  Loading plugin: sscanf
+[06:30:23] 
+
+[06:30:23]  ===============================
+
+[06:30:23]       sscanf plugin loaded.     
+
+[06:30:23]          Version:  2.8.2        
+
+[06:30:23]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:30:23]  ===============================
+
+[06:30:23]   Loaded.
+[06:30:23]  Loading plugin: mysql
+[06:30:23]  >> plugin.mysql: R41-4 successfully loaded.
+[06:30:23]   Loaded.
+[06:30:23]  Loading plugin: pawncmd
+[06:30:23] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[06:30:23]   Loaded.
+[06:30:23]  Loading plugin: pawnregex
+[06:30:23] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[06:30:23]   Loaded.
+[06:30:23]  Loading plugin: pawnraknet
+[06:30:23] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[06:30:23]   Loaded.
+[06:30:23]  Loading plugin: MapAndreas
+[06:30:23]   Loaded.
+[06:30:23]  Loading plugin: PawnPlus
+[06:30:23]  PawnPlus v1.3.1 loaded
+[06:30:23]  Created by IllidanS4
+[06:30:23]   Loaded.
+[06:30:23]  Loaded 9 plugins.
+
+[06:30:23] 
+[06:30:23] Filterscripts
+[06:30:23] ---------------
+[06:30:23]   Loading filterscript 'maps.amx'...
+[06:30:23]   Unable to load filterscript 'maps.amx'.
+[06:30:23]   Loaded 0 filterscripts.
+
+[06:30:23]  
+[06:30:23]  
+[06:30:23]  
+[06:30:23]  ======================================= 
+[06:30:23]  |                                     | 
+[06:30:23]  |        YSI version 4.00.0001        | 
+[06:30:23]  |        By Alex "Y_Less" Cole        | 
+[06:30:23]  |                                     | 
+[06:30:23]  ======================================= 
+[06:30:23]  
+[06:30:23] [Consola] Conectando a la base de datos...
+[06:30:23] [Consola] Base de datos conectada(Datos Generales Cargados)
+[06:30:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:36:02] 
+[06:36:02] Server Plugins
+[06:36:02] --------------
+[06:36:02]  Loading plugin: crashdetect
+[06:36:02]   CrashDetect plugin 4.19
+[06:36:02]   Loaded.
+[06:36:02]  Loading plugin: streamer.dll
+[06:36:02] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[06:36:02]   Loaded.
+[06:36:02]  Loading plugin: sscanf
+[06:36:02] 
+
+[06:36:02]  ===============================
+
+[06:36:02]       sscanf plugin loaded.     
+
+[06:36:02]          Version:  2.8.2        
+
+[06:36:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:36:02]  ===============================
+
+[06:36:02]   Loaded.
+[06:36:02]  Loading plugin: mysql
+[06:36:02]  >> plugin.mysql: R41-4 successfully loaded.
+[06:36:02]   Loaded.
+[06:36:02]  Loading plugin: pawncmd
+[06:36:02] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[06:36:02]   Loaded.
+[06:36:02]  Loading plugin: pawnregex
+[06:36:02] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[06:36:02]   Loaded.
+[06:36:02]  Loading plugin: pawnraknet
+[06:36:02] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[06:36:02]   Loaded.
+[06:36:02]  Loading plugin: MapAndreas
+[06:36:02]   Loaded.
+[06:36:02]  Loading plugin: PawnPlus
+[06:36:02]  PawnPlus v1.3.1 loaded
+[06:36:02]  Created by IllidanS4
+[06:36:02]   Loaded.
+[06:36:02]  Loaded 9 plugins.
+
+[06:36:02] 
+[06:36:02] Filterscripts
+[06:36:02] ---------------
+[06:36:02]   Loading filterscript 'maps.amx'...
+[06:36:02]   Unable to load filterscript 'maps.amx'.
+[06:36:02]   Loaded 0 filterscripts.
+
+[06:36:02]  
+[06:36:02]  
+[06:36:02]  
+[06:36:02]  ======================================= 
+[06:36:02]  |                                     | 
+[06:36:02]  |        YSI version 4.00.0001        | 
+[06:36:02]  |        By Alex "Y_Less" Cole        | 
+[06:36:02]  |                                     | 
+[06:36:02]  ======================================= 
+[06:36:02]  
+[06:36:02] [Consola] Conectando a la base de datos...
+[06:36:02] [Consola] Base de datos conectada(Datos Generales Cargados)
+[06:36:02] Number of vehicle models: 0
+[06:36:45] [connection] incoming connection: 127.0.0.1:51921 id: 0
+[06:36:47] [join] Jhonatan_Corella has joined the server (0:127.0.0.1)
+[06:38:11] [part] Jhonatan_Corella has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:42:06] 
+[06:42:06] Server Plugins
+[06:42:06] --------------
+[06:42:06]  Loading plugin: crashdetect
+[06:42:07]   CrashDetect plugin 4.19
+[06:42:07]   Loaded.
+[06:42:07]  Loading plugin: streamer.dll
+[06:42:07] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[06:42:07]   Loaded.
+[06:42:07]  Loading plugin: sscanf
+[06:42:07] 
+
+[06:42:07]  ===============================
+
+[06:42:07]       sscanf plugin loaded.     
+
+[06:42:07]          Version:  2.8.2        
+
+[06:42:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:42:07]  ===============================
+
+[06:42:07]   Loaded.
+[06:42:07]  Loading plugin: mysql
+[06:42:07]  >> plugin.mysql: R41-4 successfully loaded.
+[06:42:07]   Loaded.
+[06:42:07]  Loading plugin: pawncmd
+[06:42:08] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[06:42:08]   Loaded.
+[06:42:08]  Loading plugin: pawnregex
+[06:42:08] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[06:42:08]   Loaded.
+[06:42:08]  Loading plugin: pawnraknet
+[06:42:08] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[06:42:08]   Loaded.
+[06:42:08]  Loading plugin: MapAndreas
+[06:42:08]   Loaded.
+[06:42:08]  Loading plugin: PawnPlus
+[06:42:08]  PawnPlus v1.3.1 loaded
+[06:42:08]  Created by IllidanS4
+[06:42:08]   Loaded.
+[06:42:08]  Loaded 9 plugins.
+
+[06:42:08] 
+[06:42:08] Filterscripts
+[06:42:08] ---------------
+[06:42:08]   Loading filterscript 'maps.amx'...
+[06:42:08]   Unable to load filterscript 'maps.amx'.
+[06:42:08]   Loaded 0 filterscripts.
+
+[06:42:08]  
+[06:42:08]  
+[06:42:08]  
+[06:42:08]  ======================================= 
+[06:42:08]  |                                     | 
+[06:42:08]  |        YSI version 4.00.0001        | 
+[06:42:08]  |        By Alex "Y_Less" Cole        | 
+[06:42:08]  |                                     | 
+[06:42:08]  ======================================= 
+[06:42:08]  
+[06:42:08] [Consola] Conectando a la base de datos...
+[06:42:08] [Consola] Base de datos conectada(Datos Generales Cargados)
+[06:42:08] Number of vehicle models: 0
+[06:42:38] [connection] incoming connection: 127.0.0.1:52894 id: 0
+[06:42:38] [join] Jhonatan_Corella has joined the server (0:127.0.0.1)
+[06:43:02] New account registered. ID: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[06:45:24] 
+[06:45:24] Server Plugins
+[06:45:24] --------------
+[06:45:24]  Loading plugin: crashdetect
+[06:45:24]   CrashDetect plugin 4.19
+[06:45:24]   Loaded.
+[06:45:24]  Loading plugin: streamer.dll
+[06:45:24] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[06:45:24]   Loaded.
+[06:45:24]  Loading plugin: sscanf
+[06:45:24] 
+
+[06:45:24]  ===============================
+
+[06:45:24]       sscanf plugin loaded.     
+
+[06:45:24]          Version:  2.8.2        
+
+[06:45:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[06:45:24]  ===============================
+
+[06:45:24]   Loaded.
+[06:45:24]  Loading plugin: mysql
+[06:45:24]  >> plugin.mysql: R41-4 successfully loaded.
+[06:45:24]   Loaded.
+[06:45:24]  Loading plugin: pawncmd
+[06:45:24] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[06:45:24]   Loaded.
+[06:45:24]  Loading plugin: pawnregex
+[06:45:24] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[06:45:24]   Loaded.
+[06:45:24]  Loading plugin: pawnraknet
+[06:45:24] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[06:45:24]   Loaded.
+[06:45:24]  Loading plugin: MapAndreas
+[06:45:24]   Loaded.
+[06:45:24]  Loading plugin: PawnPlus
+[06:45:24]  PawnPlus v1.3.1 loaded
+[06:45:24]  Created by IllidanS4
+[06:45:24]   Loaded.
+[06:45:24]  Loaded 9 plugins.
+
+[06:45:24] 
+[06:45:24] Filterscripts
+[06:45:24] ---------------
+[06:45:24]   Loading filterscript 'maps.amx'...
+[06:45:24]   Unable to load filterscript 'maps.amx'.
+[06:45:24]   Loaded 0 filterscripts.
+
+[06:45:24]  
+[06:45:24]  
+[06:45:24]  
+[06:45:24]  ======================================= 
+[06:45:24]  |                                     | 
+[06:45:24]  |        YSI version 4.00.0001        | 
+[06:45:24]  |        By Alex "Y_Less" Cole        | 
+[06:45:24]  |                                     | 
+[06:45:24]  ======================================= 
+[06:45:24]  
+[06:45:24] [Consola] Conectando a la base de datos...
+[06:45:24] [Consola] Base de datos conectada(Datos Generales Cargados)
+[06:45:24] Number of vehicle models: 0
+[06:45:48] [connection] incoming connection: 127.0.0.1:53535 id: 0
+[06:45:48] [join] Jhonatan_Corella has joined the server (0:127.0.0.1)
+[06:46:19] [part] Jhonatan_Corella has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:14:57] 
+[07:14:57] Server Plugins
+[07:14:57] --------------
+[07:14:57]  Loading plugin: crashdetect
+[07:14:58]   CrashDetect plugin 4.19
+[07:14:58]   Loaded.
+[07:14:58]  Loading plugin: streamer.dll
+[07:14:58] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[07:14:58]   Loaded.
+[07:14:58]  Loading plugin: sscanf
+[07:14:58] 
+
+[07:14:58]  ===============================
+
+[07:14:58]       sscanf plugin loaded.     
+
+[07:14:58]          Version:  2.8.2        
+
+[07:14:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[07:14:58]  ===============================
+
+[07:14:58]   Loaded.
+[07:14:58]  Loading plugin: mysql
+[07:14:58]  >> plugin.mysql: R41-4 successfully loaded.
+[07:14:58]   Loaded.
+[07:14:58]  Loading plugin: pawncmd
+[07:14:58] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[07:14:58]   Loaded.
+[07:14:58]  Loading plugin: pawnregex
+[07:14:58] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[07:14:58]   Loaded.
+[07:14:58]  Loading plugin: pawnraknet
+[07:14:58] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[07:14:58]   Loaded.
+[07:14:58]  Loading plugin: MapAndreas
+[07:14:58]   Loaded.
+[07:14:58]  Loading plugin: PawnPlus
+[07:14:59]  PawnPlus v1.3.1 loaded
+[07:14:59]  Created by IllidanS4
+[07:14:59]   Loaded.
+[07:14:59]  Loaded 9 plugins.
+
+[07:14:59] 
+[07:14:59] Filterscripts
+[07:14:59] ---------------
+[07:14:59]   Loading filterscript 'maps.amx'...
+[07:14:59]   Unable to load filterscript 'maps.amx'.
+[07:14:59]   Loaded 0 filterscripts.
+
+[07:14:59]  
+[07:14:59]  
+[07:14:59]  
+[07:14:59]  ======================================= 
+[07:14:59]  |                                     | 
+[07:14:59]  |        YSI version 4.00.0001        | 
+[07:14:59]  |        By Alex "Y_Less" Cole        | 
+[07:14:59]  |                                     | 
+[07:14:59]  ======================================= 
+[07:14:59]  
+[07:15:00] [Consola] Conectando a la base de datos...
+[07:15:00] [Consola] Base de datos conectada(Datos Generales Cargados)
+[07:15:00] Number of vehicle models: 0
+[07:15:52] [connection] incoming connection: 127.0.0.1:55657 id: 0
+[07:15:52] [join] Jhonatan_Corella has joined the server (0:127.0.0.1)
+[07:17:26] RCON (In-Game): Player #0 (Jhonatan_Corella) has logged in.
+[07:19:03] [part] Jhonatan_Corella has left the server (0:0)
+[07:20:16] [connection] incoming connection: 127.0.0.1:58954 id: 0
+[07:20:16] [join] Jhonatan_Corellas has joined the server (0:127.0.0.1)
+[07:20:21] New account registered. ID: 0
+[07:23:16] [part] Jhonatan_Corellas has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:13:09] 
+[08:13:09] Server Plugins
+[08:13:09] --------------
+[08:13:09]  Loading plugin: crashdetect
+[08:13:09]   CrashDetect plugin 4.19
+[08:13:09]   Loaded.
+[08:13:09]  Loading plugin: streamer.dll
+[08:13:09] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[08:13:09]   Loaded.
+[08:13:09]  Loading plugin: sscanf
+[08:13:10] 
+
+[08:13:10]  ===============================
+
+[08:13:10]       sscanf plugin loaded.     
+
+[08:13:10]          Version:  2.8.2        
+
+[08:13:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:13:10]  ===============================
+
+[08:13:10]   Loaded.
+[08:13:10]  Loading plugin: mysql
+[08:13:10]  >> plugin.mysql: R41-4 successfully loaded.
+[08:13:10]   Loaded.
+[08:13:10]  Loading plugin: pawncmd
+[08:13:10] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[08:13:10]   Loaded.
+[08:13:10]  Loading plugin: pawnregex
+[08:13:10] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[08:13:10]   Loaded.
+[08:13:10]  Loading plugin: pawnraknet
+[08:13:10] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[08:13:10]   Loaded.
+[08:13:10]  Loading plugin: MapAndreas
+[08:13:10]   Loaded.
+[08:13:10]  Loading plugin: PawnPlus
+[08:13:10]  PawnPlus v1.3.1 loaded
+[08:13:10]  Created by IllidanS4
+[08:13:10]   Loaded.
+[08:13:10]  Loaded 9 plugins.
+
+[08:13:10] 
+[08:13:10] Filterscripts
+[08:13:10] ---------------
+[08:13:10]   Loading filterscript 'maps.amx'...
+[08:13:10]   Unable to load filterscript 'maps.amx'.
+[08:13:10]   Loaded 0 filterscripts.
+
+[08:13:10]  
+[08:13:10]  
+[08:13:10]  
+[08:13:10]  ======================================= 
+[08:13:10]  |                                     | 
+[08:13:10]  |        YSI version 4.00.0001        | 
+[08:13:10]  |        By Alex "Y_Less" Cole        | 
+[08:13:10]  |                                     | 
+[08:13:10]  ======================================= 
+[08:13:10]  
+[08:13:10] [Consola] Conectando a la base de datos...
+[08:13:10] [Consola] Base de datos conectada(Datos Generales Cargados)
+[08:13:10] Number of vehicle models: 0
+[08:13:11]  [House System] Loaded 2 houses.
+[08:14:20] [connection] incoming connection: 127.0.0.1:55804 id: 0
+[08:14:21] [join] Jhonatan_Corellas has joined the server (0:127.0.0.1)
+[08:15:28] [part] Jhonatan_Corellas has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:16:48] 
+[08:16:48] Server Plugins
+[08:16:48] --------------
+[08:16:48]  Loading plugin: crashdetect
+[08:16:48]   CrashDetect plugin 4.19
+[08:16:48]   Loaded.
+[08:16:48]  Loading plugin: streamer.dll
+[08:16:48] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[08:16:48]   Loaded.
+[08:16:48]  Loading plugin: sscanf
+[08:16:48] 
+
+[08:16:48]  ===============================
+
+[08:16:48]       sscanf plugin loaded.     
+
+[08:16:48]          Version:  2.8.2        
+
+[08:16:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[08:16:48]  ===============================
+
+[08:16:48]   Loaded.
+[08:16:48]  Loading plugin: mysql
+[08:16:48]  >> plugin.mysql: R41-4 successfully loaded.
+[08:16:48]   Loaded.
+[08:16:48]  Loading plugin: pawncmd
+[08:16:48] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[08:16:48]   Loaded.
+[08:16:48]  Loading plugin: pawnregex
+[08:16:48] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[08:16:48]   Loaded.
+[08:16:48]  Loading plugin: pawnraknet
+[08:16:48] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[08:16:48]   Loaded.
+[08:16:48]  Loading plugin: MapAndreas
+[08:16:48]   Loaded.
+[08:16:48]  Loading plugin: PawnPlus
+[08:16:48]  PawnPlus v1.3.1 loaded
+[08:16:48]  Created by IllidanS4
+[08:16:48]   Loaded.
+[08:16:48]  Loaded 9 plugins.
+
+[08:16:48] 
+[08:16:48] Filterscripts
+[08:16:48] ---------------
+[08:16:48]   Loading filterscript 'maps.amx'...
+[08:16:48]   Unable to load filterscript 'maps.amx'.
+[08:16:48]   Loaded 0 filterscripts.
+
+[08:16:48]  
+[08:16:48]  
+[08:16:48]  
+[08:16:48]  ======================================= 
+[08:16:48]  |                                     | 
+[08:16:48]  |        YSI version 4.00.0001        | 
+[08:16:48]  |        By Alex "Y_Less" Cole        | 
+[08:16:48]  |                                     | 
+[08:16:48]  ======================================= 
+[08:16:48]  
+[08:16:48] [Consola] Conectando a la base de datos...
+[08:16:48] [Consola] Base de datos conectada(Datos Generales Cargados)
+[08:16:48] Number of vehicle models: 0
+[08:16:48]  [House System] Loaded 2 houses.
+[08:17:15] [connection] incoming connection: 127.0.0.1:65431 id: 0
+[08:17:15] [join] Jhonatan_Corellas has joined the server (0:127.0.0.1)
+[08:17:50] [part] Jhonatan_Corellas has left the server (0:2)
+[08:20:22] [connection] incoming connection: 127.0.0.1:62779 id: 0
+[08:20:22] [join] Jhonatan_Corellas has joined the server (0:127.0.0.1)
+[08:28:00] [part] Jhonatan_Corellas has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:37:42] 
+[09:37:42] Server Plugins
+[09:37:42] --------------
+[09:37:42]  Loading plugin: crashdetect
+[09:37:42]   CrashDetect plugin 4.19
+[09:37:42]   Loaded.
+[09:37:42]  Loading plugin: streamer.dll
+[09:37:42] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[09:37:42]   Loaded.
+[09:37:42]  Loading plugin: sscanf
+[09:37:42] 
+
+[09:37:42]  ===============================
+
+[09:37:42]       sscanf plugin loaded.     
+
+[09:37:42]          Version:  2.8.2        
+
+[09:37:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:37:42]  ===============================
+
+[09:37:42]   Loaded.
+[09:37:42]  Loading plugin: mysql
+[09:37:43]  >> plugin.mysql: R41-4 successfully loaded.
+[09:37:43]   Loaded.
+[09:37:43]  Loading plugin: pawncmd
+[09:37:43] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[09:37:43]   Loaded.
+[09:37:43]  Loading plugin: pawnregex
+[09:37:43] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[09:37:43]   Loaded.
+[09:37:43]  Loading plugin: pawnraknet
+[09:37:43] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[09:37:43]   Loaded.
+[09:37:43]  Loading plugin: MapAndreas
+[09:37:43]   Loaded.
+[09:37:43]  Loading plugin: PawnPlus
+[09:37:43]  PawnPlus v1.3.1 loaded
+[09:37:43]  Created by IllidanS4
+[09:37:43]   Loaded.
+[09:37:43]  Loaded 9 plugins.
+
+[09:37:44] 
+[09:37:44] Filterscripts
+[09:37:44] ---------------
+[09:37:44]   Loading filterscript 'maps.amx'...
+[09:37:44]   Unable to load filterscript 'maps.amx'.
+[09:37:44]   Loaded 0 filterscripts.
+
+[09:37:44]  
+[09:37:44]  
+[09:37:44]  
+[09:37:44]  ======================================= 
+[09:37:44]  |                                     | 
+[09:37:44]  |        YSI version 4.00.0001        | 
+[09:37:44]  |        By Alex "Y_Less" Cole        | 
+[09:37:44]  |                                     | 
+[09:37:44]  ======================================= 
+[09:37:44]  
+[09:37:45] [Consola] Conectando a la base de datos...
+[09:37:45] [Consola] Base de datos conectada(Datos Generales Cargados)
+[09:37:45] Number of vehicle models: 0
+[09:37:46]  [House System] Loaded 4 houses.
+[09:43:16] [connection] incoming connection: 127.0.0.1:51793 id: 0
+[09:43:16] [join] Javier_Pelmoit has joined the server (0:127.0.0.1)
+[09:43:51] [part] Javier_Pelmoit has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:34:00] 
+[20:34:00] Server Plugins
+[20:34:00] --------------
+[20:34:00]  Loading plugin: crashdetect
+[20:34:00]   CrashDetect plugin 4.19
+[20:34:00]   Loaded.
+[20:34:00]  Loading plugin: streamer.dll
+[20:34:00] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[20:34:00]   Loaded.
+[20:34:00]  Loading plugin: sscanf
+[20:34:00] 
+
+[20:34:00]  ===============================
+
+[20:34:00]       sscanf plugin loaded.     
+
+[20:34:00]          Version:  2.8.2        
+
+[20:34:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:34:00]  ===============================
+
+[20:34:00]   Loaded.
+[20:34:00]  Loading plugin: mysql
+[20:34:01]  >> plugin.mysql: R41-4 successfully loaded.
+[20:34:01]   Loaded.
+[20:34:01]  Loading plugin: pawncmd
+[20:34:01] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[20:34:01]   Loaded.
+[20:34:01]  Loading plugin: pawnregex
+[20:34:01] Pawn.Regex plugin v1.1.2 by urShadow loaded
+[20:34:01]   Loaded.
+[20:34:01]  Loading plugin: pawnraknet
+[20:34:01] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[20:34:01]   Loaded.
+[20:34:01]  Loading plugin: MapAndreas
+[20:34:01]   Loaded.
+[20:34:01]  Loading plugin: PawnPlus
+[20:34:01]  PawnPlus v1.3.1 loaded
+[20:34:01]  Created by IllidanS4
+[20:34:01]   Loaded.
+[20:34:01]  Loaded 9 plugins.
+
+[20:34:01] 
+[20:34:01] Filterscripts
+[20:34:01] ---------------
+[20:34:01]   Loading filterscript 'maps.amx'...
+[20:34:01]   Unable to load filterscript 'maps.amx'.
+[20:34:01]   Loaded 0 filterscripts.
+
+[20:34:01]  
+[20:34:01]  
+[20:34:01]  
+[20:34:01]  ======================================= 
+[20:34:01]  |                                     | 
+[20:34:01]  |        YSI version 4.00.0001        | 
+[20:34:01]  |        By Alex "Y_Less" Cole        | 
+[20:34:01]  |                                     | 
+[20:34:01]  ======================================= 
+[20:34:01]  
+[20:34:02] [Consola] Conectando a la base de datos...
+[20:34:02] [Consola] Base de datos conectada(Datos Generales Cargados)
+[20:34:02] Number of vehicle models: 0
+[20:34:03]  [House System] Loaded 4 houses.
+[20:34:53] [connection] incoming connection: 127.0.0.1:54657 id: 0
+[20:34:53] [join] Jhonatan_Corella has joined the server (0:127.0.0.1)

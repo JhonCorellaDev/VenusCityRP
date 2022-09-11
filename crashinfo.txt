@@ -1,0 +1,314 @@
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x02A518D4 Module: (PawnPlus.DLL)
+
+Registers:
+EAX: 0x0019F22C	EBX: 0x00000001	ECX: 0x00000000	EDX: 0x004056F0
+ESI: 0x00000000	EDI: 0x00000006	EBP: 0x00000000	ESP: 0x0019F890
+EFLAGS: 0x00010286
+
+Stack:
++0000: 0x00000010   0x0019F8F8   0x0019F8AC   0x762132DB
++0010: 0x005D0000   0x00000000   0x0CA44350   0x0019F8BC
++0020: 0x762132A8   0x0CA44350   0x00000000   0x0019F8C8
++0030: 0x02BF0B66   0x0CA44350   0x0019F918   0x02A7B51D
++0040: 0x0CA44350   0x00000014   0x00625368   0x02BF0387
++0050: 0x00000000   0x00000000   0x00000000   0x00000000
++0060: 0x00000000   0x00000000   0x00000000   0x00000000
++0070: 0x00000000   0x00000000   0x00000000   0x00000000
++0080: 0x00000000   0x00000000   0x00000000   0x00000000
++0090: 0x00000000   0x00000000   0x00000000   0x00000000
++00A0: 0x00000000   0x00000000   0x00000000   0x00000000
++00B0: 0x00000000   0x00000000   0x00000000   0x00000000
++00C0: 0x00000000   0x00000000   0x00000000   0x00000000
++00D0: 0x00000000   0x00000000   0x00000000   0x00000000
++00E0: 0x00000000   0x00000000   0x00000000   0x00000000
++00F0: 0x00000000   0x00000000   0x00000000   0x00000000
++0100: 0x00000000   0x00000000   0x00000000   0x00000000
++0110: 0x00000000   0x00000000   0x00000000   0x00000000
++0120: 0x00000000   0x00000000   0x00000000   0x00000000
++0130: 0x00000000   0x00000000   0x00000000   0x00000000
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\samp-server.exe)
+ntdll.dll	A: 0x770D0000 - 0x7726C000	(C:\Windows\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x75370000 - 0x75450000	(C:\Windows\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x76BB0000 - 0x76DA9000	(C:\Windows\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x74C60000 - 0x751AD000	(C:\Windows\System32\SHELL32.dll)
+msvcrt.dll	A: 0x760E0000 - 0x761A0000	(C:\Windows\System32\msvcrt.dll)
+cfgmgr32.dll	A: 0x74B50000 - 0x74B8B000	(C:\Windows\System32\cfgmgr32.dll)
+ucrtbase.dll	A: 0x761E0000 - 0x76303000	(C:\Windows\System32\ucrtbase.dll)
+shcore.dll	A: 0x751B0000 - 0x75239000	(C:\Windows\System32\shcore.dll)
+RPCRT4.dll	A: 0x75460000 - 0x7551F000	(C:\Windows\System32\RPCRT4.dll)
+SspiCli.dll	A: 0x74740000 - 0x74760000	(C:\Windows\System32\SspiCli.dll)
+CRYPTBASE.dll	A: 0x74730000 - 0x7473A000	(C:\Windows\System32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x74B90000 - 0x74BF2000	(C:\Windows\System32\bcryptPrimitives.dll)
+sechost.dll	A: 0x75240000 - 0x752B9000	(C:\Windows\System32\sechost.dll)
+combase.dll	A: 0x76E40000 - 0x770BE000	(C:\Windows\System32\combase.dll)
+windows.storage.dll	A: 0x75520000 - 0x75B1A000	(C:\Windows\System32\windows.storage.dll)
+msvcp_win.dll	A: 0x74760000 - 0x747E0000	(C:\Windows\System32\msvcp_win.dll)
+advapi32.dll	A: 0x74800000 - 0x7487E000	(C:\Windows\System32\advapi32.dll)
+profapi.dll	A: 0x761A0000 - 0x761BC000	(C:\Windows\System32\profapi.dll)
+powrprof.dll	A: 0x74AF0000 - 0x74B44000	(C:\Windows\System32\powrprof.dll)
+shlwapi.dll	A: 0x752C0000 - 0x75304000	(C:\Windows\System32\shlwapi.dll)
+GDI32.dll	A: 0x76E10000 - 0x76E33000	(C:\Windows\System32\GDI32.dll)
+gdi32full.dll	A: 0x75B20000 - 0x75C86000	(C:\Windows\System32\gdi32full.dll)
+USER32.dll	A: 0x76960000 - 0x76AF9000	(C:\Windows\System32\USER32.dll)
+win32u.dll	A: 0x74C00000 - 0x74C17000	(C:\Windows\System32\win32u.dll)
+kernel.appcore.dll	A: 0x761C0000 - 0x761CF000	(C:\Windows\System32\kernel.appcore.dll)
+cryptsp.dll	A: 0x76B90000 - 0x76BA2000	(C:\Windows\System32\cryptsp.dll)
+WSOCK32.dll	A: 0x71730000 - 0x71738000	(C:\Windows\SYSTEM32\WSOCK32.dll)
+WS2_32.dll	A: 0x74A90000 - 0x74AEF000	(C:\Windows\System32\WS2_32.dll)
+WINMM.dll	A: 0x746F0000 - 0x74714000	(C:\Windows\SYSTEM32\WINMM.dll)
+WINMMBASE.dll	A: 0x746C0000 - 0x746E3000	(C:\Windows\SYSTEM32\WINMMBASE.dll)
+IMM32.DLL	A: 0x74C20000 - 0x74C45000	(C:\Windows\System32\IMM32.DLL)
+MSVCP100.dll	A: 0x73990000 - 0x739F9000	(C:\Windows\SYSTEM32\MSVCP100.dll)
+MSVCR100.dll	A: 0x73A00000 - 0x73ABF000	(C:\Windows\SYSTEM32\MSVCR100.dll)
+streamer.DLL	A: 0x73920000 - 0x73987000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\streamer.DLL)
+MSVCP140.dll	A: 0x738B0000 - 0x7391D000	(C:\Windows\SYSTEM32\MSVCP140.dll)
+VCRUNTIME140.dll	A: 0x73890000 - 0x738A5000	(C:\Windows\SYSTEM32\VCRUNTIME140.dll)
+sscanf.DLL	A: 0x10000000 - 0x1000F000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\sscanf.DLL)
+mysql.DLL	A: 0x73840000 - 0x7388E000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\mysql.DLL)
+log-core.dll	A: 0x73820000 - 0x7383A000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\log-core.dll)
+libmariadb.dll	A: 0x73750000 - 0x7381D000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\libmariadb.dll)
+CRYPT32.dll	A: 0x76410000 - 0x765A9000	(C:\Windows\System32\CRYPT32.dll)
+MSASN1.dll	A: 0x75450000 - 0x7545E000	(C:\Windows\System32\MSASN1.dll)
+Secur32.dll	A: 0x74720000 - 0x7472A000	(C:\Windows\SYSTEM32\Secur32.dll)
+napinsp.dll	A: 0x71F40000 - 0x71F51000	(C:\Windows\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x71D50000 - 0x71D66000	(C:\Windows\system32\pnrpnsp.dll)
+mswsock.dll	A: 0x73650000 - 0x736A2000	(C:\Windows\System32\mswsock.dll)
+DNSAPI.dll	A: 0x74120000 - 0x741B0000	(C:\Windows\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x76950000 - 0x76957000	(C:\Windows\System32\NSI.dll)
+IPHLPAPI.DLL	A: 0x74600000 - 0x74633000	(C:\Windows\SYSTEM32\IPHLPAPI.DLL)
+winrnr.dll	A: 0x71F30000 - 0x71F3B000	(C:\Windows\System32\winrnr.dll)
+NLAapi.dll	A: 0x71A60000 - 0x71A76000	(C:\Windows\system32\NLAapi.dll)
+wshbth.dll	A: 0x71A50000 - 0x71A60000	(C:\Windows\system32\wshbth.dll)
+mdnsNSP.dll	A: 0x71FF0000 - 0x72011000	(C:\Program Files (x86)\Bonjour\mdnsNSP.dll)
+rasadhlp.dll	A: 0x72510000 - 0x72518000	(C:\Windows\System32\rasadhlp.dll)
+pawncmd.DLL	A: 0x712A0000 - 0x712D9000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\pawncmd.DLL)
+pawnregex.DLL	A: 0x71260000 - 0x71297000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\pawnregex.DLL)
+pawnraknet.DLL	A: 0x538F0000 - 0x53948000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\pawnraknet.DLL)
+MapAndreas.DLL	A: 0x00AA0000 - 0x00AB0000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\MapAndreas.DLL)
+PawnPlus.DLL	A: 0x02A40000 - 0x02C85000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\PawnPlus.DLL)
+bcrypt.dll	A: 0x747E0000 - 0x747F9000	(C:\Windows\System32\bcrypt.dll)
+uxtheme.dll	A: 0x741F0000 - 0x7426B000	(C:\Windows\system32\uxtheme.dll)
+PROPSYS.dll	A: 0x74480000 - 0x745FE000	(C:\Windows\SYSTEM32\PROPSYS.dll)
+OLEAUT32.dll	A: 0x749F0000 - 0x74A8B000	(C:\Windows\System32\OLEAUT32.dll)
+urlmon.dll	A: 0x71D70000 - 0x71F2C000	(C:\Windows\SYSTEM32\urlmon.dll)
+iertutil.dll	A: 0x72740000 - 0x7296D000	(C:\Windows\SYSTEM32\iertutil.dll)
+CLDAPI.dll	A: 0x533A0000 - 0x533BB000	(C:\Windows\SYSTEM32\CLDAPI.dll)
+FLTLIB.DLL	A: 0x53350000 - 0x53358000	(C:\Windows\SYSTEM32\FLTLIB.DLL)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x02A818D4 Module: (PawnPlus.DLL)
+
+Registers:
+EAX: 0x0019F1FC	EBX: 0x00000001	ECX: 0x00000000	EDX: 0x004056F0
+ESI: 0x00000000	EDI: 0x00000008	EBP: 0x00000000	ESP: 0x0019F890
+EFLAGS: 0x00010286
+
+Stack:
++0000: 0x00000010   0x0019F8F8   0x0019F8AC   0x542A3B0D
++0010: 0x0019FCD4   0x00000000   0x542A3B0D   0x0019FCE0
++0020: 0x00000000   0x00000000   0x00000000   0x00000000
++0030: 0x00000000   0x00000000   0x00000000   0x00000000
++0040: 0x00000000   0x00000000   0x00000000   0x00000000
++0050: 0x00000000   0x00000000   0x00000000   0x00000000
++0060: 0x00000000   0x00000000   0x00000000   0x00000000
++0070: 0x00000000   0x00000000   0x00000000   0x00000000
++0080: 0x00000000   0x00000000   0x00000000   0x00000000
++0090: 0x00000000   0x00000000   0x00000000   0x00000000
++00A0: 0x00000000   0x00000000   0x00000000   0x00000000
++00B0: 0x00000000   0x00000000   0x00000000   0x00000000
++00C0: 0x00000000   0x00000000   0x00000000   0x00000000
++00D0: 0x00000000   0x00000000   0x00000000   0x00000000
++00E0: 0x00000000   0x00000000   0x00000000   0x00000000
++00F0: 0x00000000   0x00000000   0x00000000   0x00000000
++0100: 0x00000000   0x00000000   0x00000000   0x00000000
++0110: 0x00000000   0x00000000   0x00000000   0x00000000
++0120: 0x00000000   0x0000003E   0x0019FB18   0x0019FB18
++0130: 0x004AB35B   0x00000000   0x53211BF0   0x0019FABC
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\samp-server.exe)
+ntdll.dll	A: 0x77130000 - 0x772CC000	(C:\Windows\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x75870000 - 0x75950000	(C:\Windows\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x747C0000 - 0x749B9000	(C:\Windows\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x74A60000 - 0x74FAD000	(C:\Windows\System32\SHELL32.dll)
+msvcrt.dll	A: 0x760B0000 - 0x76170000	(C:\Windows\System32\msvcrt.dll)
+cfgmgr32.dll	A: 0x75D50000 - 0x75D8B000	(C:\Windows\System32\cfgmgr32.dll)
+ucrtbase.dll	A: 0x76EE0000 - 0x77003000	(C:\Windows\System32\ucrtbase.dll)
+shcore.dll	A: 0x757E0000 - 0x75869000	(C:\Windows\System32\shcore.dll)
+RPCRT4.dll	A: 0x77010000 - 0x770CF000	(C:\Windows\System32\RPCRT4.dll)
+SspiCli.dll	A: 0x747A0000 - 0x747C0000	(C:\Windows\System32\SspiCli.dll)
+CRYPTBASE.dll	A: 0x74790000 - 0x7479A000	(C:\Windows\System32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x75500000 - 0x75562000	(C:\Windows\System32\bcryptPrimitives.dll)
+sechost.dll	A: 0x75BD0000 - 0x75C49000	(C:\Windows\System32\sechost.dll)
+combase.dll	A: 0x75950000 - 0x75BCE000	(C:\Windows\System32\combase.dll)
+windows.storage.dll	A: 0x76170000 - 0x7676A000	(C:\Windows\System32\windows.storage.dll)
+msvcp_win.dll	A: 0x76770000 - 0x767F0000	(C:\Windows\System32\msvcp_win.dll)
+advapi32.dll	A: 0x75CD0000 - 0x75D4E000	(C:\Windows\System32\advapi32.dll)
+profapi.dll	A: 0x76860000 - 0x7687C000	(C:\Windows\System32\profapi.dll)
+powrprof.dll	A: 0x75FA0000 - 0x75FF4000	(C:\Windows\System32\powrprof.dll)
+shlwapi.dll	A: 0x770D0000 - 0x77114000	(C:\Windows\System32\shlwapi.dll)
+GDI32.dll	A: 0x75D90000 - 0x75DB3000	(C:\Windows\System32\GDI32.dll)
+gdi32full.dll	A: 0x76880000 - 0x769E6000	(C:\Windows\System32\gdi32full.dll)
+USER32.dll	A: 0x76D40000 - 0x76ED9000	(C:\Windows\System32\USER32.dll)
+win32u.dll	A: 0x757C0000 - 0x757D7000	(C:\Windows\System32\win32u.dll)
+kernel.appcore.dll	A: 0x76850000 - 0x7685F000	(C:\Windows\System32\kernel.appcore.dll)
+cryptsp.dll	A: 0x757A0000 - 0x757B2000	(C:\Windows\System32\cryptsp.dll)
+WSOCK32.dll	A: 0x72A50000 - 0x72A58000	(C:\Windows\SYSTEM32\WSOCK32.dll)
+WS2_32.dll	A: 0x75570000 - 0x755CF000	(C:\Windows\System32\WS2_32.dll)
+WINMM.dll	A: 0x74750000 - 0x74774000	(C:\Windows\SYSTEM32\WINMM.dll)
+WINMMBASE.dll	A: 0x74720000 - 0x74743000	(C:\Windows\SYSTEM32\WINMMBASE.dll)
+IMM32.DLL	A: 0x75C50000 - 0x75C75000	(C:\Windows\System32\IMM32.DLL)
+MSVCP100.dll	A: 0x5F500000 - 0x5F569000	(C:\Windows\SYSTEM32\MSVCP100.dll)
+MSVCR100.dll	A: 0x54310000 - 0x543CF000	(C:\Windows\SYSTEM32\MSVCR100.dll)
+streamer.DLL	A: 0x542A0000 - 0x54307000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\streamer.DLL)
+VCRUNTIME140.dll	A: 0x5F960000 - 0x5F975000	(C:\Windows\SYSTEM32\VCRUNTIME140.dll)
+MSVCP140.dll	A: 0x54230000 - 0x5429D000	(C:\Windows\SYSTEM32\MSVCP140.dll)
+sscanf.DLL	A: 0x10000000 - 0x1000F000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\sscanf.DLL)
+mysql.DLL	A: 0x5F4B0000 - 0x5F4FE000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\mysql.DLL)
+libmariadb.dll	A: 0x53260000 - 0x5332D000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\libmariadb.dll)
+CRYPT32.dll	A: 0x76BA0000 - 0x76D39000	(C:\Windows\System32\CRYPT32.dll)
+MSASN1.dll	A: 0x75F80000 - 0x75F8E000	(C:\Windows\System32\MSASN1.dll)
+Secur32.dll	A: 0x74780000 - 0x7478A000	(C:\Windows\SYSTEM32\Secur32.dll)
+log-core.dll	A: 0x54210000 - 0x5422A000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\log-core.dll)
+napinsp.dll	A: 0x707A0000 - 0x707B1000	(C:\Windows\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x549B0000 - 0x549C6000	(C:\Windows\system32\pnrpnsp.dll)
+mswsock.dll	A: 0x73F50000 - 0x73FA2000	(C:\Windows\System32\mswsock.dll)
+DNSAPI.dll	A: 0x73FC0000 - 0x74050000	(C:\Windows\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x75F90000 - 0x75F97000	(C:\Windows\System32\NSI.dll)
+IPHLPAPI.DLL	A: 0x744E0000 - 0x74513000	(C:\Windows\SYSTEM32\IPHLPAPI.DLL)
+winrnr.dll	A: 0x70790000 - 0x7079B000	(C:\Windows\System32\winrnr.dll)
+NLAapi.dll	A: 0x54990000 - 0x549A6000	(C:\Windows\system32\NLAapi.dll)
+wshbth.dll	A: 0x54970000 - 0x54980000	(C:\Windows\system32\wshbth.dll)
+mdnsNSP.dll	A: 0x71D50000 - 0x71D71000	(C:\Program Files (x86)\Bonjour\mdnsNSP.dll)
+rasadhlp.dll	A: 0x71D40000 - 0x71D48000	(C:\Windows\System32\rasadhlp.dll)
+pawncmd.DLL	A: 0x541D0000 - 0x54209000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\pawncmd.DLL)
+pawnregex.DLL	A: 0x53590000 - 0x535C7000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\pawnregex.DLL)
+pawnraknet.DLL	A: 0x53200000 - 0x53258000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\pawnraknet.DLL)
+MapAndreas.DLL	A: 0x02350000 - 0x02360000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\MapAndreas.DLL)
+PawnPlus.DLL	A: 0x02A70000 - 0x02CB5000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\PawnPlus.DLL)
+sampvoice.DLL	A: 0x531D0000 - 0x531FB000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\sampvoice.DLL)
+bcrypt.dll	A: 0x75ED0000 - 0x75EE9000	(C:\Windows\System32\bcrypt.dll)
+uxtheme.dll	A: 0x74250000 - 0x742CB000	(C:\Windows\system32\uxtheme.dll)
+PROPSYS.dll	A: 0x74520000 - 0x7469E000	(C:\Windows\SYSTEM32\PROPSYS.dll)
+OLEAUT32.dll	A: 0x749C0000 - 0x74A5B000	(C:\Windows\System32\OLEAUT32.dll)
+urlmon.dll	A: 0x71B80000 - 0x71D3C000	(C:\Windows\SYSTEM32\urlmon.dll)
+iertutil.dll	A: 0x730A0000 - 0x732CD000	(C:\Windows\SYSTEM32\iertutil.dll)
+CLDAPI.dll	A: 0x70C50000 - 0x70C6B000	(C:\Windows\SYSTEM32\CLDAPI.dll)
+FLTLIB.DLL	A: 0x71DA0000 - 0x71DA8000	(C:\Windows\SYSTEM32\FLTLIB.DLL)
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x53211BF0 Module: (pawnraknet.DLL)
+
+Registers:
+EAX: 0x0019F1FC	EBX: 0x00000001	ECX: 0x00000000	EDX: 0x004056F0
+ESI: 0x00000000	EDI: 0x00000008	EBP: 0x00000000	ESP: 0x0019F9CC
+EFLAGS: 0x00010286
+
+Stack:
++0000: 0x0019FABC   0x00452120   0x0019FB00   0xFF010000
++0010: 0x004500FF   0x04502052   0x04502050   0x0255DA80
++0020: 0x00000050   0x00000050   0x0000004C   0x045A5308
++0030: 0x00453600   0x0000003D   0x007C0298   0x00000001
++0040: 0x00000007   0x000007FF   0x00000101   0x007C00C0
++0050: 0x007C6AF4   0x00000000   0x00000000   0x02559D70
++0060: 0x041CD050   0x0000003D   0x0019FABC   0x06D9B078
++0070: 0x00000007   0x00000001   0x0100007F   0x000000C4
++0080: 0x00000000   0x00000620   0x0019FABC   0x0000003D
++0090: 0x06A00000   0x00000081   0x00000000   0x00000001
++00A0: 0x3D00003D   0x06D829D8   0x00000000   0x007F003D
++00B0: 0xCDFB0100   0x00484481   0x000007FF   0x0000003D
++00C0: 0x00000002   0x013D01C8   0x06DC1018   0x00000000
++00D0: 0x06DC1018   0xFFFFFFFE   0x00000001   0x0000003D
++00E0: 0x00000000   0x06DC1020   0x00000000   0x00010014
++00F0: 0x77174560   0x06BE9A88   0x06102700   0x0E9748C8
++0100: 0x0000003D   0x00000000   0x0E9748C8   0x06E43B50
++0110: 0x77174560   0x7724FE50   0x06C058BC   0x0E974288
++0120: 0x00020A70   0x00000000   0x77174560   0x06BE9A88
++0130: 0x0615DA30   0x0019F9D8   0x00000030   0x0100007F
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\samp-server.exe)
+ntdll.dll	A: 0x77130000 - 0x772CC000	(C:\Windows\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x75870000 - 0x75950000	(C:\Windows\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x747C0000 - 0x749B9000	(C:\Windows\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x74A60000 - 0x74FAD000	(C:\Windows\System32\SHELL32.dll)
+msvcrt.dll	A: 0x760B0000 - 0x76170000	(C:\Windows\System32\msvcrt.dll)
+cfgmgr32.dll	A: 0x75D50000 - 0x75D8B000	(C:\Windows\System32\cfgmgr32.dll)
+ucrtbase.dll	A: 0x76EE0000 - 0x77003000	(C:\Windows\System32\ucrtbase.dll)
+shcore.dll	A: 0x757E0000 - 0x75869000	(C:\Windows\System32\shcore.dll)
+RPCRT4.dll	A: 0x77010000 - 0x770CF000	(C:\Windows\System32\RPCRT4.dll)
+SspiCli.dll	A: 0x747A0000 - 0x747C0000	(C:\Windows\System32\SspiCli.dll)
+CRYPTBASE.dll	A: 0x74790000 - 0x7479A000	(C:\Windows\System32\CRYPTBASE.dll)
+bcryptPrimitives.dll	A: 0x75500000 - 0x75562000	(C:\Windows\System32\bcryptPrimitives.dll)
+sechost.dll	A: 0x75BD0000 - 0x75C49000	(C:\Windows\System32\sechost.dll)
+combase.dll	A: 0x75950000 - 0x75BCE000	(C:\Windows\System32\combase.dll)
+windows.storage.dll	A: 0x76170000 - 0x7676A000	(C:\Windows\System32\windows.storage.dll)
+msvcp_win.dll	A: 0x76770000 - 0x767F0000	(C:\Windows\System32\msvcp_win.dll)
+advapi32.dll	A: 0x75CD0000 - 0x75D4E000	(C:\Windows\System32\advapi32.dll)
+profapi.dll	A: 0x76860000 - 0x7687C000	(C:\Windows\System32\profapi.dll)
+powrprof.dll	A: 0x75FA0000 - 0x75FF4000	(C:\Windows\System32\powrprof.dll)
+shlwapi.dll	A: 0x770D0000 - 0x77114000	(C:\Windows\System32\shlwapi.dll)
+GDI32.dll	A: 0x75D90000 - 0x75DB3000	(C:\Windows\System32\GDI32.dll)
+gdi32full.dll	A: 0x76880000 - 0x769E6000	(C:\Windows\System32\gdi32full.dll)
+USER32.dll	A: 0x76D40000 - 0x76ED9000	(C:\Windows\System32\USER32.dll)
+win32u.dll	A: 0x757C0000 - 0x757D7000	(C:\Windows\System32\win32u.dll)
+kernel.appcore.dll	A: 0x76850000 - 0x7685F000	(C:\Windows\System32\kernel.appcore.dll)
+cryptsp.dll	A: 0x757A0000 - 0x757B2000	(C:\Windows\System32\cryptsp.dll)
+WSOCK32.dll	A: 0x72A50000 - 0x72A58000	(C:\Windows\SYSTEM32\WSOCK32.dll)
+WS2_32.dll	A: 0x75570000 - 0x755CF000	(C:\Windows\System32\WS2_32.dll)
+WINMM.dll	A: 0x74750000 - 0x74774000	(C:\Windows\SYSTEM32\WINMM.dll)
+WINMMBASE.dll	A: 0x74720000 - 0x74743000	(C:\Windows\SYSTEM32\WINMMBASE.dll)
+IMM32.DLL	A: 0x75C50000 - 0x75C75000	(C:\Windows\System32\IMM32.DLL)
+MSVCP100.dll	A: 0x5F500000 - 0x5F569000	(C:\Windows\SYSTEM32\MSVCP100.dll)
+MSVCR100.dll	A: 0x54310000 - 0x543CF000	(C:\Windows\SYSTEM32\MSVCR100.dll)
+streamer.DLL	A: 0x542A0000 - 0x54307000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\streamer.DLL)
+MSVCP140.dll	A: 0x54230000 - 0x5429D000	(C:\Windows\SYSTEM32\MSVCP140.dll)
+VCRUNTIME140.dll	A: 0x5F960000 - 0x5F975000	(C:\Windows\SYSTEM32\VCRUNTIME140.dll)
+sscanf.DLL	A: 0x10000000 - 0x1000F000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\sscanf.DLL)
+mysql.DLL	A: 0x5F4B0000 - 0x5F4FE000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\mysql.DLL)
+log-core.dll	A: 0x54210000 - 0x5422A000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\log-core.dll)
+libmariadb.dll	A: 0x53260000 - 0x5332D000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\libmariadb.dll)
+CRYPT32.dll	A: 0x76BA0000 - 0x76D39000	(C:\Windows\System32\CRYPT32.dll)
+MSASN1.dll	A: 0x75F80000 - 0x75F8E000	(C:\Windows\System32\MSASN1.dll)
+Secur32.dll	A: 0x74780000 - 0x7478A000	(C:\Windows\SYSTEM32\Secur32.dll)
+napinsp.dll	A: 0x707A0000 - 0x707B1000	(C:\Windows\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x549B0000 - 0x549C6000	(C:\Windows\system32\pnrpnsp.dll)
+mswsock.dll	A: 0x73F50000 - 0x73FA2000	(C:\Windows\System32\mswsock.dll)
+DNSAPI.dll	A: 0x73FC0000 - 0x74050000	(C:\Windows\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x75F90000 - 0x75F97000	(C:\Windows\System32\NSI.dll)
+IPHLPAPI.DLL	A: 0x744E0000 - 0x74513000	(C:\Windows\SYSTEM32\IPHLPAPI.DLL)
+winrnr.dll	A: 0x70790000 - 0x7079B000	(C:\Windows\System32\winrnr.dll)
+NLAapi.dll	A: 0x54990000 - 0x549A6000	(C:\Windows\system32\NLAapi.dll)
+wshbth.dll	A: 0x54970000 - 0x54980000	(C:\Windows\system32\wshbth.dll)
+mdnsNSP.dll	A: 0x71D50000 - 0x71D71000	(C:\Program Files (x86)\Bonjour\mdnsNSP.dll)
+rasadhlp.dll	A: 0x71D40000 - 0x71D48000	(C:\Windows\System32\rasadhlp.dll)
+pawncmd.DLL	A: 0x541D0000 - 0x54209000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\pawncmd.DLL)
+pawnregex.DLL	A: 0x53590000 - 0x535C7000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\pawnregex.DLL)
+pawnraknet.DLL	A: 0x53200000 - 0x53258000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\pawnraknet.DLL)
+MapAndreas.DLL	A: 0x02480000 - 0x02490000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\MapAndreas.DLL)
+PawnPlus.DLL	A: 0x02C30000 - 0x02E75000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\PawnPlus.DLL)
+sampvoice.DLL	A: 0x531D0000 - 0x531FB000	(C:\Users\jhon\Downloads\41764-the-marine-corps-of-the-armed-forces\Trabajo\Servidor\HabanaCityRP\plugins\sampvoice.DLL)
+bcrypt.dll	A: 0x75ED0000 - 0x75EE9000	(C:\Windows\System32\bcrypt.dll)
+uxtheme.dll	A: 0x74250000 - 0x742CB000	(C:\Windows\system32\uxtheme.dll)
+PROPSYS.dll	A: 0x74520000 - 0x7469E000	(C:\Windows\SYSTEM32\PROPSYS.dll)
+OLEAUT32.dll	A: 0x749C0000 - 0x74A5B000	(C:\Windows\System32\OLEAUT32.dll)
+urlmon.dll	A: 0x71B80000 - 0x71D3C000	(C:\Windows\SYSTEM32\urlmon.dll)
+iertutil.dll	A: 0x730A0000 - 0x732CD000	(C:\Windows\SYSTEM32\iertutil.dll)
+CLDAPI.dll	A: 0x70C50000 - 0x70C6B000	(C:\Windows\SYSTEM32\CLDAPI.dll)
+FLTLIB.DLL	A: 0x71DA0000 - 0x71DA8000	(C:\Windows\SYSTEM32\FLTLIB.DLL)
